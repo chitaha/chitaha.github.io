@@ -2154,3 +2154,32 @@ section,
   position: relative;
   width: 100%;
 }
+
+.sib-announcement-bar {
+  z-index: 5;
+}
+.sb, .sb-f {
+  width: 100%;
+}
+.sb {
+  pointer-events: none;
+  position: relative;
+}
+
+.d .sib-announcement-bar .ss-bg {
+  background-color: rgba(113, 100, 88, 1);
+}
+.ss-s, .ss.sactive {
+  display: block;
+}
+.ss, .ss-s, .ss.sactive {
+  height: 100%;
+  left: 0;
+  pointer-events: none;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+
+
