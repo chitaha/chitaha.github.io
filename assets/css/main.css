@@ -2111,3 +2111,46 @@ section,
   position: absolute;
 }
 
+.d .sie-announcement-bar_0-text {
+  color: rgba(242, 236, 232, 1);
+  line-height: 1.2;
+  letter-spacing: 0.05em;
+  font-size: 16px;
+  text-align: left;
+  font-family: 'Roboto Condensed';
+  font-weight: 300;
+  font-style: normal;
+}
+.d .st-d-subheading {
+  color: rgba(23, 23, 23, 1);
+  text-transform: uppercase;
+  line-height: 1.4;
+  letter-spacing: 0.15em;
+  font-size: 16px;
+  text-align: left;
+  font-family: 'Roboto Condensed';
+  font-weight: 300;
+  font-style: normal;
+}
+.se-t {
+  background: transparent;
+  border: 0;
+  height: 100%;
+  left: 0;
+  padding: 0;
+  top: 0;
+  width: 100%;
+}
+.se, .se-t {
+  position: absolute;
+}
+
+.sp {
+  min-width: 320px;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.sc, .sp {
+  position: relative;
+  width: 100%;
+}
