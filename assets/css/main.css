@@ -2054,3 +2054,21 @@ section,
 .starter-section {
   /* Add your styles here */
 }
+
+
+/*--------------------------------------------------------------
+# Announcement Bar
+--------------------------------------------------------------*/
+.sib-announcement-bar {
+  z-index: 5;
+}
+
+.sb, .sb-f {
+  width: 100%;
+}
+
+.sb {
+  pointer-events: none;
+  position: relative;
+}
+
