@@ -858,6 +858,13 @@ section,
   font-size: 56px;
   font-weight: 700;
   line-height: 72px;
+  /* color: rgba(255, 255, 255, 1); */
+  /* text-transform: uppercase; */
+  /* font-size: 160px; */
+  /* text-align: center; */
+  /* font-family: 'Editors Note Hairline'; */
+  /* font-weight: 400; */
+  /* font-style: normal; */
 }
 
 .hero p {
