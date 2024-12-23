@@ -746,3 +746,7 @@ iframe:hover {
     transform: scale(1.05); /* Slight zoom effect when hovering over the form */
 }
 
+.css-42 {
+  background: #000120;
+}
+
